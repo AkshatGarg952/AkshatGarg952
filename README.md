@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Akshat Garg</h1>
+<h1 align="center">Hey there 👋![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Akshat Garg</h1>
 <h3 align="center">🚀 Full Stack + AI Developer | MERN Stack | OpenAI | LangChain | 3★ CodeChef</h3>
 
 <p align="center">
