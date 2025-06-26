@@ -9,8 +9,11 @@
 
 <table>
   <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" width="450"/>
+    </td>
     <td width="50%">
-      
+
 ### 🧠 About Me
 
 - 🎓 Currently pursuing **B.Tech in ECE from IIT Bhopal** (3rd year)  
@@ -20,10 +23,7 @@
 - 🔍 Exploring `LangChain`, `RAG`, `FastAPI`, `Next.js`  
 - 🌱 Always learning and shipping 🚀  
 
-   </td>
-   <td align="center" width="50%">
-     <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" width="350"/>
-   </td>
+    </td>
   </tr>
 </table>
 
@@ -78,7 +78,7 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-Akshat%20Garg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-garg-79b06428a/)](https://www.linkedin.com/in/akshat-garg-79b06428a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Garg-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-garg-79b06428a/)  
 📧 Email: **gargakshat952@gmail.com**
 
 ---
