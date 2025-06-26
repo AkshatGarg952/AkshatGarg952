@@ -48,10 +48,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Repo-To-Riches**](Building Currently) | AI-powered platform for analyzing GitHub repos and conducting mock interviews |
-| 🛒 [**PlayPlexus**](https://github.com/AkshatGarg952/PlayPlexusFrontend) | Full Stack MERN e-commerce site with cart, auth, and admin dashboard |
-| 🎭 [**HireSphere**](https://github.com/AkshatGarg952/HireSphere) | Seat booking site for multiple movies, built using vanilla JS |
-| 📰 [**BlogVerse**](https://github.com/AkshatGarg952/BlogVerse) | React + Alan AI based app with voice interaction, animations & APIs |
+| 🤖 [**Repo-To-Riches**](Building Currently) | An AI-powered tool that analyzes GitHub repos for code quality and conducts smart mock interviews based on your code |
+| 🎮 [**PlayPlexus**](https://github.com/AkshatGarg952/PlayPlexusFrontend) | A multiplayer coding challenge arena where users can compete in real-time coding battles |
+| 💼 [**HireSphere**](https://github.com/AkshatGarg952/HireSphere) | A job portal platform connecting developers with companies, featuring role-based dashboards and filters |
+| ✍️  [**BlogVerse**](https://github.com/AkshatGarg952/BlogVerse) | A dynamic blogging platform where users can create, edit, and explore tech blogs with full CRUD support |
 
 
 ---
