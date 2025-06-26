@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://github.com/akshatgarg/akshatgarg/assets/122918234/6e902c65-4c46-4266-b332-b30195c41f62" width="30px" alt="waving hand"/>, I'm Akshat Garg</h1>
+<h1 align="center">Hey there 👋, I'm Akshat Garg</h1>
 <h3 align="center">🚀 Full Stack + AI Developer | MERN Stack | OpenAI | LangChain | 3★ CodeChef</h3>
 
 <p align="center">
