@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Dev+%7C+MERN+Stack;AI+Engineer+%7C+OpenAI%2C+LangChain;Always+Learning+New+Things...&center=true&width=500&height=45&color=58A6FF&pause=1000&size=22" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/15855241/media/f98c1a2e3c80219c9abdc0ee0dfdd309.gif" width="400" alt="coding-animated" />
+</p>
+
 ---
 
 ### 🧠 About Me
