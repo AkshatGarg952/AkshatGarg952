@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Akshat Garg</h1>
+<h1 align="center">Hey there 👋, I'm Akshat Garg</h1>
 <h3 align="center">🚀 Full Stack + AI Developer | MERN Stack | OpenAI | LangChain | 3★ CodeChef</h3>
 
 <p align="center">
@@ -48,12 +48,11 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Repo-To-Riches**](https://github.com/akshatgarg/Repo-To-Riches) | AI-powered platform for analyzing GitHub repos and conducting mock interviews |
-| 🛒 [**BuyBusy**](https://github.com/akshatgarg/BuyBusy) | Full Stack MERN e-commerce site with cart, auth, and admin dashboard |
-| 🎭 [**BookMySeat**](https://github.com/akshatgarg/BookMySeat) | Seat booking site for multiple movies, built using vanilla JS |
-| 📰 [**AI News App (Voice Controlled)**](https://github.com/akshatgarg/Voice-News) | React + Alan AI based app with voice interaction, animations & APIs |
-| 📊 [**Stock Analysis Tool**](https://github.com/akshatgarg/stock-analyzer) | Interactive frontend for analyzing 10+ stocks using Plotly and APIs |
-| 🎵 [**Music Player**](https://github.com/akshatgarg/music-player) | Feature-rich music app with custom playlists and controls |
+| 🔗 [**Repo-To-Riches**](Building Currently) | AI-powered platform for analyzing GitHub repos and conducting mock interviews |
+| 🛒 [**PlayPlexus**](https://github.com/AkshatGarg952/PlayPlexusFrontend) | Full Stack MERN e-commerce site with cart, auth, and admin dashboard |
+| 🎭 [**HireSphere**](https://github.com/AkshatGarg952/HireSphere) | Seat booking site for multiple movies, built using vanilla JS |
+| 📰 [**BlogVerse**](https://github.com/AkshatGarg952/BlogVerse) | React + Alan AI based app with voice interaction, animations & APIs |
+
 
 ---
 
