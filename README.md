@@ -9,28 +9,28 @@
 
 ### 🧠 About Me
 
+- 🎓 Currently pursuing **B.Tech in ECE from IIT Bhopal** (3rd year)
 - 🎯 I'm building an **AI-powered GitHub Repo Analyzer + AI Interview Platform**
-- 📚 I’ve built 10+ projects including AI tools, e-commerce, news apps, and more
+- 📚 Built 10+ projects including AI tools, e-commerce, news apps, and more
 - 🧠 Strong with `Data Structures & Algorithms` (solved 85% <1100 on CF, now targeting 1400+)
-- 🧪 Exploring cutting-edge tech like `LangChain`, `RAG`, `FastAPI`, and `Next.js`
+- 🔍 Exploring cutting-edge tech like `LangChain`, `RAG`, `FastAPI`, and `Next.js`
 - 🌱 Always learning and shipping 🚀
 
 ---
 
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" style="margin: 10px; background:white; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" style="margin: 10px; background:white; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" style="margin: 10px;" />
+</p>
 
 ---
 
@@ -67,7 +67,8 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/akshat-garg-79b06428a/)
+[![LinkedIn](https://img.shields.io/badge/-Akshat%20Garg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/akshat-garg-79b06428a/)  
+📧 Email: **gargakshat952@gmail.com**
 
 ---
 
