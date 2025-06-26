@@ -18,8 +18,8 @@
 
 - 🎓 Currently pursuing **B.Tech in ECE from IIT Bhopal** (3rd year)  
 - 🎯 Building an **AI-powered GitHub Repo Analyzer + AI Interview Platform**  
-- 📚 Created 10+ projects (AI tools, e-commerce, news apps, etc.)  
-- 🧠 Strong in **DSA** (85% <1100 on CF, now aiming 1400+)  
+- 📚 Developed many real-world projects
+- 🧠 Strong in **DSA**  
 - 🔍 Exploring `LangChain`, `RAG`, `FastAPI`, `Next.js`  
 - 🌱 Always learning and shipping 🚀  
 
