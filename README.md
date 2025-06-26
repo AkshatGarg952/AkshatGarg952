@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Akshat Garg</h1>
+<h1 align="center">Hey there <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="30px" />, I'm Akshat Garg</h1>
 <h3 align="center">🚀 Full Stack + AI Developer | MERN Stack | OpenAI | LangChain | 3★ CodeChef</h3>
 
 <p align="center">
