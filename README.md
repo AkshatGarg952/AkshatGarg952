@@ -5,36 +5,42 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Dev+%7C+MERN+Stack;AI+Engineer+%7C+OpenAI%2C+LangChain;Always+Learning+New+Things...&center=true&width=500&height=45&color=58A6FF&pause=1000&size=22" />
 </p>
 
-<!-- 🧑‍💻 Coding Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coder gif" width="500"/>
-</p>
-
 ---
 
+<table>
+  <tr>
+    <td width="50%">
+      
 ### 🧠 About Me
 
-- 🎓 Currently pursuing **B.Tech in ECE from IIT Bhopal** (3rd year)
-- 🎯 I'm building an **AI-powered GitHub Repo Analyzer + AI Interview Platform**
-- 📚 Built 10+ projects including AI tools, e-commerce, news apps, and more
-- 🧠 Strong with `Data Structures & Algorithms` (solved 85% <1100 on CF, now targeting 1400+)
-- 🔍 Exploring cutting-edge tech like `LangChain`, `RAG`, `FastAPI`, and `Next.js`
-- 🌱 Always learning and shipping 🚀
+- 🎓 Currently pursuing **B.Tech in ECE from IIT Bhopal** (3rd year)  
+- 🎯 Building an **AI-powered GitHub Repo Analyzer + AI Interview Platform**  
+- 📚 Created 10+ projects (AI tools, e-commerce, news apps, etc.)  
+- 🧠 Strong in **DSA** (85% <1100 on CF, now aiming 1400+)  
+- 🔍 Exploring `LangChain`, `RAG`, `FastAPI`, `Next.js`  
+- 🌱 Always learning and shipping 🚀  
+
+   </td>
+   <td align="center" width="50%">
+     <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" width="350"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" style="margin: 10px; background:white; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" style="margin: 10px; background:white; border-radius:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" />
 </p>
 
 ---
@@ -64,15 +70,15 @@
 
 ### 🧩 Fun Facts
 
-- 💡 I'm obsessed with building devtools + AI features to make coder lives easier
-- 🧠 I practice CP regularly to stay sharp in logic and problem-solving
-- ✨ I believe in “Learn → Build → Share” mindset
+- 💡 I'm obsessed with building devtools + AI features to make coder lives easier  
+- 🧠 I practice CP regularly to stay sharp in logic and problem-solving  
+- ✨ I believe in “Learn → Build → Share” mindset  
 
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-Akshat%20Garg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/akshat-garg-79b06428a/)  
+[![LinkedIn](https://img.shields.io/badge/-Akshat%20Garg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-garg-79b06428a/)](https://www.linkedin.com/in/akshat-garg-79b06428a/)  
 📧 Email: **gargakshat952@gmail.com**
 
 ---
