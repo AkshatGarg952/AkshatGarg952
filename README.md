@@ -121,7 +121,7 @@ const akshat = {
   <a href="mailto:gargakshat952@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/akshatgarg">
+  <a href="https://www.codechef.com/users/akshat4545">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
