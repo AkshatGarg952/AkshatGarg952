@@ -56,17 +56,22 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
       <b>Problem Solver</b><br/>
       <sub>3★ CodeChef | Strong DSA Foundation</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/><br/>
       <b>Fast Learner</b><br/>
       <sub>Quickly adapt to new tech stacks & frameworks</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br/>
+      <b>AI Integrator</b><br/>
+      <sub>Enhance apps with OpenAI, LangChain & RAG</sub>
+    </td>
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/development-skill.png" width="60"/><br/>
       <b>Full-Stack Ready</b><br/>
       <sub>End-to-end project experience</sub>
