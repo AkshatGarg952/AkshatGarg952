@@ -100,7 +100,6 @@ const akshat = {
 - 💻 **Attained max rating of 1645 on LeetCode**, showcasing strong algorithmic skills
 - 🧩 **Solved 300+ DSA problems** on platforms like LeetCode and Code360
 - 💼 **Full Stack AI Intern at Dwarf AI** – Real-world AI integration experience
-- 🎓 **B.Tech from IIT Bhopal** – Top-tier engineering education
 
 ---
 
