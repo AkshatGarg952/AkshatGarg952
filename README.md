@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently pursuing **B.Tech in ECE from IIT Bhopal** (3rd year)  
+- 🎓 Currently pursuing **B.Tech in ECE from IIIT Bhopal** (3rd year)  
 - 🎯 Building an **AI-powered GitHub Repo Analyzer + AI Interview Platform**  
 - 📚 Developed many real-world projects
 - 🧠 Strong in **DSA**  
