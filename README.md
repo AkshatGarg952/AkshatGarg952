@@ -48,10 +48,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🤖 [**Repo-To-Riches**](Building Currently) | An AI-powered tool that analyzes GitHub repos for code quality and conducts smart mock interviews based on your code |
+| 💼 [**KodeKshetra**](https://github.com/AkshatGarg952/KodeKshetra-Client) | A real-time competitive coding arena where developers battle 1v1 in DSA and CP challenges, powered by AI, FastAPI, and Judge0 for seamless matchmaking and code evaluation.|
+| 🤖 [**Chess with Benefits**](https://github.com/AkshatGarg952/ChesswithBenefits-Client) | An interactive chess platform featuring real-time video calls, AI-powered live commentary, and voice-controlled piece movements for an immersive gameplay experience. |
 | 🎮 [**PlayPlexus**](https://github.com/AkshatGarg952/PlayPlexusFrontend) | A multiplayer coding challenge arena where users can compete in real-time coding battles |
 | 💼 [**HireSphere**](https://github.com/AkshatGarg952/HireSphere) | A job portal platform connecting developers with companies, featuring role-based dashboards and filters |
-| ✍️  [**BlogVerse**](https://github.com/AkshatGarg952/BlogVerse) | A dynamic blogging platform where users can create, edit, and explore tech blogs with full CRUD support |
 
 
 ---
