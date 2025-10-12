@@ -94,24 +94,13 @@ const akshat = {
 
 ---
 
-### 📊 Coding Activity
+### 🏆 Achievements & Experience
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatgarg&theme=tokyonight" alt="Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgarg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🥉 **3★ Rating on CodeChef** – Consistent problem-solving
+- 🥉 **Achieved 3★ coder rank on CodeChef** with a peak rating of **1661**
+- 💻 **Attained max rating of 1645 on LeetCode**, showcasing strong algorithmic skills
+- 🧩 **Solved 300+ DSA problems** on platforms like LeetCode and Code360
+- 💼 **Full Stack AI Intern at Dwarf AI** – Real-world AI integration experience
 - 🎓 **B.Tech from IIT Bhopal** – Top-tier engineering education
-- 🚀 **Built 4+ Full-Stack Production Apps** – Real-world development experience
-- 🤖 **AI Integration Specialist** – Worked with OpenAI, LangChain, RAG systems
 
 ---
 
