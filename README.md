@@ -86,8 +86,8 @@
 ```javascript
 const akshat = {
   learning: ["LangChain", "RAG Pipelines", "Advanced System Design"],
-  building: ["AI Interview Platform", "GitHub Repo Analyzer"],
-  lookingFor: ["Full-Stack Roles", "AI/ML Projects", "Collaborative Teams"],
+  building: ["KodeKshetra"],
+  lookingFor: ["Full-Stack Roles", "GenAI Projects", "Collaborative Teams"],
   funFact: "I debug with console.log and I'm not ashamed 🐛"
 };
 ```
