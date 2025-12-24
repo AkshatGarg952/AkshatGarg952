@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Akshat Garg</h1>
+<h1 align="center">Hey 👋, I'm Akshat Garg</h1>
 
 <h3 align="center">
 Full-Stack & GenAI Engineer | Backend • Real-Time Systems • AI Platforms
 </h3>
 
 <p align="center">
-I enjoy building <b>backend-heavy, real-time applications</b> and
-<b>AI-powered systems</b> that feel fast, scalable, and genuinely useful.
+I build <b>backend-heavy, real-time applications</b> and
+<b>AI-powered systems</b> that are fast, scalable, and practical.
 </p>
 
 <p align="center">
@@ -15,40 +15,66 @@ I enjoy building <b>backend-heavy, real-time applications</b> and
 
 ---
 
-## 👋 About Me
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" width="430"/>
+    </td>
+    <td width="50%">
 
-I'm a **B.Tech ECE student at IIIT Bhopal** who likes working close to the system layer —
+### 👋 About Me
+
+I'm a **B.Tech ECE student at IIIT Bhopal** who enjoys working close to the system layer —
 APIs, async workflows, real-time communication, and AI pipelines.
 
 I’ve worked on **healthcare platforms**, **developer tools**, and **competitive programming systems**, often combining:
-- strong backend fundamentals
-- real-time infrastructure
-- practical GenAI integrations
+- strong backend fundamentals  
+- real-time infrastructure  
+- practical GenAI integrations  
 
-I also actively practice **DSA & competitive programming** (3★ CodeChef), which heavily influences how I design systems.
+Competitive programming (**3★ CodeChef**) has heavily shaped how I think about performance,
+edge cases, and clean system design.
 
----
-
-## 🛠️ Tech I Work With
-
-**Backend:** Node.js, Express, FastAPI, Redis, MongoDB  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Real-Time:** WebSockets, Socket.IO, WebRTC  
-**AI / GenAI:** LangChain, LangGraph, RAG Pipelines, OpenAI, Gemini  
-**Languages:** Java, JavaScript, Python, C  
-**Foundations:** DSA, OOP, DBMS, OS, Computer Networks  
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Experience (Quick Context)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="46" />
+</p>
+
+<p align="center">
+  <sub>
+    Backend • Frontend • Real-Time • GenAI
+  </sub>
+</p>
+
+---
+
+## 💼 Experience (Short Context)
 
 **Resonate Health — SWE Intern**  
-Worked on production backend systems for diagnostics and fitness data.  
-Most of my work revolves around **data ingestion**, **AI-based parsing**, and **reliable pipelines** for health data like lab reports and Google Fit metrics.
+I work on production backend systems related to diagnostics and fitness data.
+Most of my time goes into building **reliable data ingestion pipelines**, **AI-based parsing systems**, and
+real-time health data workflows that need to be accurate and fault-tolerant.
 
 **DWARF AI — Full Stack AI Intern**  
-Built and shipped an AI-powered healthcare platform where users could upload reports and interact with them via text and voice.  
-This role gave me deep exposure to **RAG pipelines**, **session-based AI chat systems**, and end-to-end GenAI product development.
+Here I built and shipped an AI-powered healthcare product from scratch.
+This experience gave me hands-on exposure to **RAG pipelines**, **session-based AI chat systems**, and
+end-to-end GenAI product development — not just demos, but real user flows.
 
 ---
 
@@ -57,11 +83,9 @@ This role gave me deep exposure to **RAG pipelines**, **session-based AI chat sy
 ### 🟣 KodeKshetra
 A **real-time competitive programming platform** where users battle 1v1 on DSA problems.
 
-The interesting part wasn’t just the UI — it was designing:
-- sandboxed code execution
-- real-time matchmaking
-- scalable backend services
-- and AI-powered test case generation
+The challenge wasn’t the UI — it was designing:
+real-time matchmaking, sandboxed code execution, scalable backend services,
+and AI-driven test case generation.
 
 This project reflects how I think about **systems, fairness, and real-time performance**.
 
@@ -70,14 +94,12 @@ This project reflects how I think about **systems, fairness, and real-time perfo
 ---
 
 ### ♟️ Chess With Benefits
-A multiplayer chess platform that mixes **real-time communication + AI**.
+A multiplayer chess platform that blends **real-time communication** with **AI features**.
 
-Along with live games, users can:
-- talk over video/audio (WebRTC)
-- control moves via voice
-- get AI-generated commentary and move analysis
+Users can play live games, talk over video/audio, control moves via voice,
+and receive AI-generated commentary and move analysis.
 
-This project pushed me to understand **low-latency systems** and real-time user experience deeply.
+This project pushed me deep into **low-latency systems** and real-time UX design.
 
 🔗 https://github.com/AkshatGarg952/ChesswithBenefits-Client
 
@@ -86,17 +108,17 @@ This project pushed me to understand **low-latency systems** and real-time user 
 ## 🧠 How I Think
 
 - I prefer **simple, reliable systems** over clever but fragile ones  
-- I like understanding **why** something works, not just **how**  
-- Competitive programming has shaped how I approach performance and edge cases  
-- AI is most interesting to me when it **actually improves a product**, not when it’s just a feature checkbox  
+- I care about **performance, correctness, and edge cases**  
+- Competitive programming shapes how I approach problem-solving  
+- AI is useful only when it **actually improves the product**, not as a buzzword  
 
 ---
 
 ## 🏆 A Few Highlights
 
-- ⭐ 3★ on CodeChef (Peak 1661)
+- ⭐ 3★ on CodeChef (Peak rating: 1661)
 - 💻 LeetCode rating: 1645
-- 🧩 300+ DSA problems solved
+- 🧩 Solved 300+ DSA problems
 - 🌍 Global Rank 317 — CodeChef Starters 154
 
 ---
