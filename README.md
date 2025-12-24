@@ -5,8 +5,8 @@ Full-Stack & GenAI Engineer | Backend • Real-Time Systems • AI Platforms
 </h3>
 
 <p align="center">
-I build <b>backend-heavy, real-time applications</b> and
-<b>AI-powered systems</b> that are fast, scalable, and practical.
+I enjoy building <b>backend-heavy, real-time applications</b> and
+<b>AI-powered systems</b> that are fast, scalable, and practical in the real world.
 </p>
 
 <p align="center">
@@ -24,16 +24,18 @@ I build <b>backend-heavy, real-time applications</b> and
 
 ### 👋 About Me
 
-I'm a **B.Tech ECE student at IIIT Bhopal** who enjoys working close to the system layer —
-APIs, async workflows, real-time communication, and AI pipelines.
+I'm a **B.Tech ECE student at IIIT Bhopal** who likes working close to how systems
+actually run — APIs, async workflows, real-time communication, and AI pipelines.
 
-I’ve worked on **healthcare platforms**, **developer tools**, and **competitive programming systems**, often combining:
-- strong backend fundamentals  
+I’ve built things in **healthcare**, **developer tooling**, and
+**competitive programming**, often mixing:
+- strong computer science fundamentals  
+- reliable backend engineering  
 - real-time infrastructure  
-- practical GenAI integrations  
+- applied GenAI (not demos)
 
-Competitive programming (**3★ CodeChef**) has heavily shaped how I think about performance,
-edge cases, and clean system design.
+Competitive programming (**3★ CodeChef**) strongly influences how I think about
+performance, correctness, and edge cases.
 
     </td>
   </tr>
@@ -41,12 +43,13 @@ edge cases, and clean system design.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (What I Actually Use)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46" />
@@ -56,25 +59,43 @@ edge cases, and clean system design.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="46" />
 </p>
 
-<p align="center">
-  <sub>
-    Backend • Frontend • Real-Time • GenAI
-  </sub>
-</p>
+---
+
+## 🧠 My Engineering Toolkit (Beyond Frameworks)
+
+Instead of just listing tools, this is **how I use them**:
+
+- **Programming Languages**  
+  Java (DSA & system logic), JavaScript (full-stack), Python (AI & backend services), C (low-level understanding)
+
+- **Backend Engineering**  
+  Building APIs with Node.js & FastAPI, handling async workflows, caching with Redis, and designing data models with MongoDB
+
+- **Frontend Development**  
+  Creating clean, responsive UIs using React, Next.js, and Tailwind CSS — mostly as a delivery layer over strong backends
+
+- **AI & GenAI Systems**  
+  Designing **RAG pipelines**, working with **LangChain**, **LangGraph**, **LangSmith**, **Langfuse**, and applying prompt engineering to make LLM outputs reliable and useful
+
+- **Core Computer Science**  
+  Data Structures & Algorithms, Object-Oriented Programming, DBMS & SQL, Operating Systems, and Computer Networks — these guide most of my design decisions
+
+- **Developer Tools**  
+  Git & GitHub for collaboration, Postman for API testing, and VS Code as my daily driver
 
 ---
 
-## 💼 Experience (Short Context)
+## 💼 Experience (Quick Context)
 
 **Resonate Health — SWE Intern**  
 I work on production backend systems related to diagnostics and fitness data.
-Most of my time goes into building **reliable data ingestion pipelines**, **AI-based parsing systems**, and
-real-time health data workflows that need to be accurate and fault-tolerant.
+Most of my work involves designing **reliable ingestion pipelines**, **AI-based parsing systems**, and
+fault-tolerant workflows where correctness really matters.
 
 **DWARF AI — Full Stack AI Intern**  
-Here I built and shipped an AI-powered healthcare product from scratch.
-This experience gave me hands-on exposure to **RAG pipelines**, **session-based AI chat systems**, and
-end-to-end GenAI product development — not just demos, but real user flows.
+I helped build and ship an AI-powered healthcare platform end-to-end.
+This experience exposed me to **RAG systems**, **session-based AI chat**, and
+what it takes to move a GenAI product beyond a prototype.
 
 ---
 
@@ -83,34 +104,30 @@ end-to-end GenAI product development — not just demos, but real user flows.
 ### 🟣 KodeKshetra
 A **real-time competitive programming platform** where users battle 1v1 on DSA problems.
 
-The challenge wasn’t the UI — it was designing:
+This project pushed me to think deeply about:
 real-time matchmaking, sandboxed code execution, scalable backend services,
-and AI-driven test case generation.
-
-This project reflects how I think about **systems, fairness, and real-time performance**.
+and AI-assisted problem evaluation.
 
 🔗 https://github.com/AkshatGarg952/KodeKshetra-Client
 
 ---
 
 ### ♟️ Chess With Benefits
-A multiplayer chess platform that blends **real-time communication** with **AI features**.
+A multiplayer chess platform combining **real-time systems** with **AI-driven insights**.
 
-Users can play live games, talk over video/audio, control moves via voice,
-and receive AI-generated commentary and move analysis.
-
-This project pushed me deep into **low-latency systems** and real-time UX design.
+Players can communicate via video/audio, use voice-based controls,
+and receive AI-generated commentary — all while keeping latency low.
 
 🔗 https://github.com/AkshatGarg952/ChesswithBenefits-Client
 
 ---
 
-## 🧠 How I Think
+## 🧠 How I Think About Building
 
-- I prefer **simple, reliable systems** over clever but fragile ones  
-- I care about **performance, correctness, and edge cases**  
-- Competitive programming shapes how I approach problem-solving  
-- AI is useful only when it **actually improves the product**, not as a buzzword  
+- Simple systems that work > complex systems that break  
+- Performance, correctness, and edge cases matter  
+- Real-time systems force discipline in design  
+- AI should **improve UX**, not just exist  
 
 ---
 
