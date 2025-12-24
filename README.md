@@ -1,16 +1,7 @@
-<h1 align="center">Hey 👋, I'm Akshat Garg</h1>
-
-<h3 align="center">
-Full-Stack & GenAI Engineer | Backend • Real-Time Systems • AI Platforms
-</h3>
-
+<h1 align="center">Hey there 👋, I'm Akshat Garg</h1>
+<h3 align="center">🚀 Full Stack + AI Developer | MERN Stack | OpenAI | LangChain | 3★ CodeChef</h3>
 <p align="center">
-I enjoy building <b>backend-heavy, real-time applications</b> and
-<b>AI-powered systems</b> that are fast, scalable, and practical in the real world.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+GenAI+Engineer;Real-Time+Systems+Builder;Competitive+Programmer;Always+Building+%26+Shipping&center=true&width=520&height=45&color=58A6FF&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Dev+%7C+MERN+Stack;AI+Engineer+%7C+OpenAI%2C+LangChain;Always+Learning+New+Things...&center=true&width=500&height=45&color=58A6FF&pause=1000&size=22" />
 </p>
 
 ---
@@ -18,129 +9,110 @@ I enjoy building <b>backend-heavy, real-time applications</b> and
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" width="430"/>
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" width="450"/>
     </td>
     <td width="50%">
 
-### 👋 About Me
-
-I'm a **B.Tech ECE student at IIIT Bhopal** who likes working close to how systems
-actually run — APIs, async workflows, real-time communication, and AI pipelines.
-
-I’ve built things in **healthcare**, **developer tooling**, and
-**competitive programming**, often mixing:
-- strong computer science fundamentals  
-- reliable backend engineering  
-- real-time infrastructure  
-- applied GenAI (not demos)
-
-Competitive programming (**3★ CodeChef**) strongly influences how I think about
-performance, correctness, and edge cases.
-
+### 🧠 About Me
+- 🎓 **B.Tech in ECE from IIT Bhopal** (3rd year)  
+- 🎯 Building **AI-powered GitHub Repo Analyzer + AI Interview Platform**  
+- 📚 Developed **multiple full-stack production apps**
+- 🏆 **3★ on CodeChef** – Strong in DSA & Problem Solving  
+- 🔍 Exploring `LangChain`, `RAG`, `FastAPI`, `Next.js`  
+- 🌱 Always learning and shipping 🚀  
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack (What I Actually Use)
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
 </p>
 
 ---
 
-## 🧠 My Engineering Toolkit (Beyond Frameworks)
+### 🚀 My Top Projects
 
-Instead of just listing tools, this is **how I use them**:
-
-- **Programming Languages**  
-  Java (DSA & system logic), JavaScript (full-stack), Python (AI & backend services), C (low-level understanding)
-
-- **Backend Engineering**  
-  Building APIs with Node.js & FastAPI, handling async workflows, caching with Redis, and designing data models with MongoDB
-
-- **Frontend Development**  
-  Creating clean, responsive UIs using React, Next.js, and Tailwind CSS — mostly as a delivery layer over strong backends
-
-- **AI & GenAI Systems**  
-  Designing **RAG pipelines**, working with **LangChain**, **LangGraph**, **LangSmith**, **Langfuse**, and applying prompt engineering to make LLM outputs reliable and useful
-
-- **Core Computer Science**  
-  Data Structures & Algorithms, Object-Oriented Programming, DBMS & SQL, Operating Systems, and Computer Networks — these guide most of my design decisions
-
-- **Developer Tools**  
-  Git & GitHub for collaboration, Postman for API testing, and VS Code as my daily driver
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| 💼 [**KodeKshetra**](https://github.com/AkshatGarg952/KodeKshetra-Client) | React, FastAPI, Judge0, MongoDB, WebSockets | A real-time competitive coding arena where developers battle 1v1 in DSA challenges with AI-powered matchmaking and instant code evaluation |
+| 🤖 [**Chess with Benefits**](https://github.com/AkshatGarg952/ChesswithBenefits-Client) | React, WebRTC, OpenAI, Chess.js, Socket.io | Interactive chess platform with real-time video calls, AI-powered live commentary, and voice-controlled moves |
+| 🎮 [**PlayPlexus**](https://github.com/AkshatGarg952/PlayPlexusFrontend) | MERN Stack, WebSockets | Multiplayer coding challenge arena for real-time competitive programming battles |
+| 💼 [**HireSphere**](https://github.com/AkshatGarg952/HireSphere) | Next.js, Node.js, MongoDB | Job portal connecting developers with companies, featuring role-based dashboards and advanced filters |
 
 ---
 
-## 💼 Experience (Quick Context)
+### 💪 What I Bring to the Table
 
-**Resonate Health — SWE Intern**  
-I work on production backend systems related to diagnostics and fitness data.
-Most of my work involves designing **reliable ingestion pipelines**, **AI-based parsing systems**, and
-fault-tolerant workflows where correctness really matters.
-
-**DWARF AI — Full Stack AI Intern**  
-I helped build and ship an AI-powered healthcare platform end-to-end.
-This experience exposed me to **RAG systems**, **session-based AI chat**, and
-what it takes to move a GenAI product beyond a prototype.
-
----
-
-## 🚀 Projects I’m Proud Of
-
-### 🟣 KodeKshetra
-A **real-time competitive programming platform** where users battle 1v1 on DSA problems.
-
-This project pushed me to think deeply about:
-real-time matchmaking, sandboxed code execution, scalable backend services,
-and AI-assisted problem evaluation.
-
-🔗 https://github.com/AkshatGarg952/KodeKshetra-Client
-
----
-
-### ♟️ Chess With Benefits
-A multiplayer chess platform combining **real-time systems** with **AI-driven insights**.
-
-Players can communicate via video/audio, use voice-based controls,
-and receive AI-generated commentary — all while keeping latency low.
-
-🔗 https://github.com/AkshatGarg952/ChesswithBenefits-Client
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
+      <b>Problem Solver</b><br/>
+      <sub>3★ CodeChef | Strong DSA Foundation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/><br/>
+      <b>Fast Learner</b><br/>
+      <sub>Quickly adapt to new tech stacks & frameworks</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br/>
+      <b>AI Integrator</b><br/>
+      <sub>Enhance apps with OpenAI, LangChain & RAG</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/development-skill.png" width="60"/><br/>
+      <b>Full-Stack Ready</b><br/>
+      <sub>End-to-end project experience</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 How I Think About Building
+### 🎯 Current Focus
 
-- Simple systems that work > complex systems that break  
-- Performance, correctness, and edge cases matter  
-- Real-time systems force discipline in design  
-- AI should **improve UX**, not just exist  
-
----
-
-## 🏆 A Few Highlights
-
-- ⭐ 3★ on CodeChef (Peak rating: 1661)
-- 💻 LeetCode rating: 1645
-- 🧩 Solved 300+ DSA problems
-- 🌍 Global Rank 317 — CodeChef Starters 154
+```javascript
+const akshat = {
+  learning: ["LangChain", "RAG Pipelines", "Advanced System Design"],
+  building: ["KodeKshetra"],
+  lookingFor: ["Full-Stack Roles", "GenAI Projects", "Collaborative Teams"],
+  funFact: "I debug with console.log and I'm not ashamed 🐛"
+};
+```
 
 ---
 
-## 🔗 Connect With Me
+### 🏆 Achievements & Experience
+
+- 🥉 **Achieved 3★ coder rank on CodeChef** with a peak rating of **1661**
+- 💻 **Attained max rating of 1645 on LeetCode**, showcasing strong algorithmic skills
+- 🧩 **Solved 300+ DSA problems** on platforms like LeetCode and Code360
+- 💼 **Full Stack AI Intern at Dwarf AI** – Real-world AI integration experience
+
+---
+
+### 🧩 Fun Facts
+
+- 💡 I'm obsessed with building devtools + AI features to make coder lives easier  
+- 🧠 I practice CP regularly to stay sharp in logic and problem-solving  
+- ✨ I believe in "Learn → Build → Share" mindset  
+- 🎯 My code works on the first try... said no developer ever 😄
+
+---
+
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshat-garg-79b06428a/">
@@ -157,5 +129,7 @@ and receive AI-generated commentary — all while keeping latency low.
 ---
 
 <p align="center">
-<i>“I like building systems that feel fast, make sense, and scale cleanly.”</i>
+  <i>"Build like a developer, think like a product owner."</i> 🚀
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=akshatgarg&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
