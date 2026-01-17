@@ -14,8 +14,7 @@
     <td width="50%">
 
 ### 🧠 About Me
-- 🎓 **B.Tech in ECE from IIT Bhopal** (3rd year)  
-- 🎯 Building **AI-powered GitHub Repo Analyzer + AI Interview Platform**  
+- 🎓 **B.Tech in ECE from IIT Bhopal** (3rd year)   
 - 📚 Developed **multiple full-stack production apps**
 - 🏆 **3★ on CodeChef** – Strong in DSA & Problem Solving  
 - 🔍 Exploring `LangChain`, `RAG`, `FastAPI`, `Next.js`  
