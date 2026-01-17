@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Akshat Garg</h1>
-<h3 align="center">🚀 Full Stack + AI Developer | MERN Stack | OpenAI | LangChain | 3★ CodeChef</h3>
+<h3 align="center">🚀 Full Stack + AI Developer | MERN Stack | OpenAI | Gen AI | 3★ CodeChef</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Dev+%7C+MERN+Stack;AI+Engineer+%7C+OpenAI%2C+LangChain;Always+Learning+New+Things...&center=true&width=500&height=45&color=58A6FF&pause=1000&size=22" />
 </p>
