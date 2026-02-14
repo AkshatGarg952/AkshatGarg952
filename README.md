@@ -1,7 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Akshat Garg</h1>
 <h3 align="center"> Software Engineer | Fundamentals > Frameworks | 3★ CodeChef</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Dev+%7C+MERN+Stack;AI+Engineer+%7C+OpenAI%2C+LangChain;Always+Learning+New+Things...&center=true&width=500&height=45&color=58A6FF&pause=1000&size=22" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Fundamentals+%3E+Frameworks;Full-Stack+%2B+GenAI+Engineer;RAG+%7C+Agents+%7C+System+Design;3%E2%98%85+CodeChef+%7C+Strong+DSA&center=true&width=650&height=45&color=58A6FF&pause=1000&size=22" />
+
 </p>
 
 ---
