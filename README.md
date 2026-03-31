@@ -1,137 +1,119 @@
-<h1 align="center">Hey there 👋, I'm Akshat Garg</h1>
-<h3 align="center"> Software Engineer | Fundamentals > Frameworks | 3★ CodeChef</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0ea5e9,70:14b8a6,100:22c55e&height=190&section=header&text=Akshat%20Garg&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-heavy%20Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Competitive%20Programmer&descAlignY=58" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+products+that+feel+fast%2C+useful%2C+and+hard+to+break;Shipping+backend+systems%2C+AI+workflows%2C+and+real-time+experiences;Turning+problem-solving+energy+into+production-grade+software" alt="Typing intro" />
+</p>
 
----
+<p align="center">
+  <a href="mailto:gargakshat952@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshat-garg-79b06428a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AkshatGarg952">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AkshatGarg952&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+## About Me
+
+I am a backend-leaning full-stack engineer from India who enjoys building products at the intersection of clean system design, AI-powered workflows, and fast user experiences.
+
+- Currently building production backend systems at **Zyvka**
+- Previously shipped health-tech and AI features at **Resonate Fitness** and **Dwarf AI**
+- Studying **Electronics and Communication Engineering at IIIT Bhopal**
+- Strong in **DSA, product thinking, and turning messy ideas into reliable flows**
+
+<details>
+  <summary><strong>What I have shipped recently</strong></summary>
+  <br />
+
+  - Built queue orchestration APIs at **Zyvka**, improving retrieval efficiency by **70%** across **10K+ jobs**
+  - Productionized health analytics pipelines at **Resonate Fitness**, cutting ingestion failures from **35% to under 5%**
+  - Designed a memory retrieval layer with validation, retries, and fallback logic that improved success from **82% to 97%**
+  - Improved answer relevance in a **LangChain + ChromaDB** RAG pipeline at **Dwarf AI** by **25%**
+
+</details>
+
+## Selected Builds
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" width="450"/>
+    <td width="33%" valign="top">
+      <h3>KodeKshetra</h3>
+      <p>
+        Real-time 1v1 competitive coding platform with matchmaking, sandboxed code execution, AI-generated test cases, and a gamified ranking loop.
+      </p>
+      <p><strong>Stack:</strong> React, Express, FastAPI, Judge0, LangChain, LangGraph, Redis</p>
+      <a href="https://github.com/AkshatGarg952/KodeKshetra-Client">Repository</a>
     </td>
-    <td width="50%">
-
-### About Me
-- Currently working as an **SWE Intern at Resonate Fitness**
-- **B.Tech in ECE from IIT Bhopal** (3rd year)   
-- Developed **multiple full-stack production apps**
-- **3★ on CodeChef** – Strong in DSA & Problem Solving   
-- Always learning and shipping 
+    <td width="33%" valign="top">
+      <h3>Chess with Benefits</h3>
+      <p>
+        Multiplayer chess experience with live video, voice-controlled moves, and AI-powered commentary layered on top of real-time gameplay.
+      </p>
+      <p><strong>Stack:</strong> React, WebRTC, OpenAI, Chess.js, Socket.io</p>
+      <a href="https://github.com/AkshatGarg952/ChesswithBenefits-Client">Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>HireSphere</h3>
+      <p>
+        Developer-focused hiring platform with role-based dashboards, clean application flows, and a backend designed for practical product usage.
+      </p>
+      <p><strong>Stack:</strong> Next.js, Node.js, MongoDB</p>
+      <a href="https://github.com/AkshatGarg952/HireSphere">Repository</a>
     </td>
   </tr>
 </table>
 
----
-
-### Tech Stack
+## Tech I Like Working With
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,nodejs,react,nextjs,fastapi,mongodb,postgres,redis,docker,firebase,tailwind,git,github,postman,vscode&perline=9" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20FastAPI-0f172a?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-0ea5e9?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Data-MongoDB%20%7C%20PostgreSQL%20%7C%20Redis-14b8a6?style=for-the-badge" alt="Data" />
+  <img src="https://img.shields.io/badge/AI-LangChain%20%7C%20LangGraph%20%7C%20RAG-22c55e?style=for-the-badge" alt="AI" />
 </p>
----
 
-### My Top Projects
+## Competitive Edge
 
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| [**KodeKshetra**](https://github.com/AkshatGarg952/KodeKshetra-Client) | React, FastAPI, Judge0, MongoDB, WebSockets | A real-time competitive coding arena where developers battle 1v1 in DSA challenges with AI-powered matchmaking and instant code evaluation |
-| [**Chess with Benefits**](https://github.com/AkshatGarg952/ChesswithBenefits-Client) | React, WebRTC, OpenAI, Chess.js, Socket.io | Interactive chess platform with real-time video calls, AI-powered live commentary, and voice-controlled moves |
-| [**PlayPlexus**](https://github.com/AkshatGarg952/PlayPlexusFrontend) | MERN Stack, WebSockets | Multiplayer coding challenge arena for real-time competitive programming battles |
-| [**HireSphere**](https://github.com/AkshatGarg952/HireSphere) | Next.js, Node.js, MongoDB | Job portal connecting developers with companies, featuring role-based dashboards and advanced filters |
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-3%20Star%20%7C%201661%20Peak-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/LeetCode-1645%20Max%20Rating-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/DSA-300%2B%20Problems-111827?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/CodeChef%20Starters%20154-GR%20317-0ea5e9?style=for-the-badge" alt="CodeChef rank" />
+</p>
 
----
+## Current Mode
 
-### What I Bring to the Table
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/>
-      <b>Problem Solver</b><br/>
-      <sub>3★ CodeChef | Strong DSA Foundation</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/><br/>
-      <b>Fast Learner</b><br/>
-      <sub>Quickly adapt to new tech stacks & frameworks</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br/>
-      <b>AI Integrator</b><br/>
-      <sub>Enhance apps with OpenAI, LangChain & RAG</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/development-skill.png" width="60"/><br/>
-      <b>Full-Stack Ready</b><br/>
-      <sub>End-to-end project experience</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### Current Focus
-
-```javascript
+```ts
 const akshat = {
-  learning: ["LangChain", "LangGraph", "RAG Pipelines", "System Design"],
-  lookingFor: ["Full-Stack Roles", "GenAI Projects", "Collaborative Teams"],
-  funFact: "I debug with console.log and I'm not ashamed!"
+  building: ["scalable APIs", "AI-assisted product flows", "real-time systems"],
+  learning: ["system design", "better backend patterns", "production AI architecture"],
+  openTo: ["SDE internships", "backend roles", "high-ownership engineering work"],
+  vibe: "Build with intent. Ship with taste. Keep the fundamentals strong."
 };
 ```
 
----
-
-### Achievements & Experience
-
-- **Achieved 3★ coder rank on CodeChef** with a peak rating of **1661**
-- **Attained max rating of 1645 on LeetCode**, showcasing strong algorithmic skills
-- **Solved 300+ DSA problems** on platforms like LeetCode and Code360
-- **Full Stack AI Intern at Dwarf AI** – Real-world AI integration experience
-
----
-
-### Fun Facts
-
-- I'm obsessed with building devtools + AI features to make coder lives easier  
-- I practice CP regularly to stay sharp in logic and problem-solving  
-- I believe in "Learn → Build → Share" mindset  
-- My code works on the first try... said no developer ever
-
----
-
-### Connect With Me
+## GitHub Pulse
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshat-garg-79b06428a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gargakshat952@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshatGarg952&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=AkshatGarg952&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
-
----
 
 <p align="center">
-  <i>"Build like a developer, think like a product owner."</i>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=akshatgarg&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGarg952&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
+
+<p align="center">
+  <i>I like products with fast feedback loops, strong backend foundations, and just enough ambition to make them fun.</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0ea5e9,100:0f172a&height=120&section=footer" />
