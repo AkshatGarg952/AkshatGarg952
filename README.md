@@ -16,7 +16,7 @@
 
 ▶ Tech I enjoy: Node.js • TypeScript • Python • FastAPI • Express • MongoDB • Redis • Docker • AWS
 
-▶ Competitive Programming: CodeChef ⭐ • 300+ DSA Problems 
+▶ Competitive Programming • LeetCode (1645) • CodeChef 3★ • 300+ DSA Problems
 
 ▶ Currently looking for Backend / Software Engineering opportunities
 
