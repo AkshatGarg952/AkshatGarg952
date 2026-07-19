@@ -2,102 +2,32 @@
 
 # akshatgarg / README.md
 
-Backend Engineer • AI Engineer • Competitive Programmer
+▶ Check out my [Portfolio](https://www.akshatgarg.in/)
 
-### Links
+▶ View my [Resume](https://drive.google.com/file/d/1T7jIhmsjw4mrH9eZVZWHd8cAw10ddLg0/view?usp=sharing)
 
-- 🌐 Portfolio — https://your-portfolio.com
-- 📄 Resume — https://your-resume-link
-- 💼 LinkedIn — https://linkedin.com/in/akshat-garg-79b06428a
-- 📫 Email — gargakshat952@gmail.com
+▶ Connect on [LinkedIn](https://www.linkedin.com/in/akshat-garg-79b06428a/)
 
----
+▶ Reach me at **gargakshat952@gmail.com**
 
-## Experience
+▶ Backend Developer Intern @ Zyvka • SWE Intern @ Resonate Fitness • Full Stack AI Intern @ Dwarf AI
 
-- **Backend Developer Intern** @ Zyvka
-- **Software Engineering Intern** @ Resonate Fitness
-- **Full Stack AI Intern** @ Dwarf AI
+▶ Building **KodeKshetra**, **Chess with Benefits**, and other backend-first projects
 
-Built scalable backend APIs, AI workflows, RAG systems, production features, and real-time applications.
+▶ Tech I enjoy: Node.js • TypeScript • Python • FastAPI • Express • MongoDB • Redis • Docker • AWS
 
----
+▶ Competitive Programming: CodeChef ⭐ • 300+ DSA Problems 
 
-## Things I've Built
-
-### KodeKshetra
-A real-time competitive programming platform with matchmaking, secure code execution, AI-generated test cases, live battles, and leaderboards.
-
-**Stack:** React • Node.js • FastAPI • Redis • Docker • Judge0 • LangChain
-
-🔗 https://github.com/AkshatGarg952/KodeKshetra-Client
+▶ Currently looking for Backend / Software Engineering opportunities
 
 ---
-
-### Chess with Benefits
-An online multiplayer chess platform with WebRTC video, voice-controlled moves, AI commentary, and real-time gameplay.
-
-**Stack:** React • Socket.io • WebRTC • OpenAI
-
-🔗 https://github.com/AkshatGarg952/ChesswithBenefits-Client
-
----
-
-### HireSphere
-A developer-focused hiring platform featuring authentication, role-based dashboards, and complete recruitment workflows.
-
-**Stack:** Next.js • Node.js • MongoDB
-
-🔗 https://github.com/AkshatGarg952/HireSphere
-
----
-
-## Tech
-
-**Languages**
-
-Java • JavaScript • TypeScript • Python • C++
-
-**Backend**
-
-Node.js • Express • FastAPI
-
-**Frontend**
-
-React • Next.js • Tailwind CSS
-
-**Databases**
-
-MongoDB • PostgreSQL • Redis
-
-**AI**
-
-LangChain • LangGraph • OpenAI
-
-**Tools**
-
-Docker • Git • GitHub • AWS • Postman
-
----
-
-## Competitive Programming
-
-- 3⭐ CodeChef
-- 1600+ Peak Rating
-- 300+ DSA Problems Solved
-
----
-
-## GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshatGarg952&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=AkshatGarg952&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkshatGarg952&show_icons=true&theme=transparent&hide_border=true" width="49%">
+<img src="https://streak-stats.demolab.com?user=AkshatGarg952&theme=transparent&hide_border=true" width="49%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatGarg952&theme=github-compact&hide_border=true" width="100%" />
-</p>
+This is just the beginning...
 
 ---
 
