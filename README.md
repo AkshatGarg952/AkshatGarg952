@@ -10,7 +10,7 @@
 
 ▶ Reach me at **gargakshat952@gmail.com**
 
-▶ Backend Developer Intern @ Zyvka • SWE Intern @ Resonate Fitness • Full Stack AI Intern @ Dwarf AI
+▶ Developer Intern @ Warrn • SDE Intern @ Zecruit AI • Backend Developer Intern @ Zyvka • SWE Intern @ Resonate Fitness • Full Stack AI Intern @ Dwarf AI
 
 ▶ Building **KodeKshetra**, **Chess with Benefits**, and other backend-first projects
 
