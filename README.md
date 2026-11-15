@@ -4,7 +4,7 @@
 
 ▶ Check out my [Portfolio](https://www.akshatgarg.in/)
 
-▶ View my [Resume](https://drive.google.com/file/d/1T7jIhmsjw4mrH9eZVZWHd8cAw10ddLg0/view?usp=sharing)
+▶ View my [Resume](https://drive.google.com/file/d/1DNBabYJ1ig5FB1g88wSy18kZ3kiGmXqw/view)
 
 ▶ Connect on [LinkedIn](https://www.linkedin.com/in/akshat-garg-79b06428a/)
 
